@@ -1,4 +1,4 @@
-# Sistema-GRAPE
+# Grape University
 
 <hr>
 
@@ -17,11 +17,12 @@ Uma tentativa de sistema acadêmico totalmente OPEN SOURCE, feito por estudantes
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🛠 Principais tecnologias:
-
+   #### Frontend
 - [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
+   #### Backend
+- [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">](https://developer.mozilla.org/en-US/docs/Glossary/Java)
 ## ✅Checklist (✔,❌)
 
 ❌ `Funcionalidade 1:` Criação da pagina pre-login
