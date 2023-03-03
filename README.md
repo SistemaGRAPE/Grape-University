@@ -29,5 +29,5 @@ Uma tentativa de sistema acadêmico totalmente OPEN SOURCE, feito por estudantes
 
 ## ✅Checklist (✔,❌)
 
-❌ `Funcionalidade 1:` Criação da pagina pre-login
+❌ `Funcionalidade 1:` Criação do protótipo da pagina de login
 
