@@ -31,3 +31,8 @@ Uma tentativa de sistema acadêmico totalmente OPEN SOURCE, feito por estudantes
 
 ❌ `Funcionalidade 1:` Criação do protótipo da pagina de login
 
+## 📸 Figma do Projeto
+
+ [<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/team_invite/redeem/hKVMqmT0doZN5otwtiKpSO)
+
+
